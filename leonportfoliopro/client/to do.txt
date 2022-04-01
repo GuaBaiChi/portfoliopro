@@ -1,0 +1,28 @@
+Resume
+How to make toDate appear empty when
+Why does Resume details have 'B' next to each category?
+All information won't fit in Resume
+
+Testimonial
+Change testimonials to something else. Just complete the tutorial for now.
+Needs to have the shape-bg image stretch
+
+Contact Me
+fade in doesn't work again
+
+
+
+
+https://www.udemy.com/course/the-ultimate-react-js-responsive-portfolio-website/learn/lecture/28599190#questions
+
+fixed
+
+ContactMe
+css
+/* 8:37 doesn't have white box background */
+wide screen doesn't stretch boxes correctly
+
+Typical needed force
+
+ https://myaccount.google.com/lesssecureapps
+Can't use this due to 2FA... find alternate solution
