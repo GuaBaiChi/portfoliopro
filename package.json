@@ -11,10 +11,10 @@
     "dev": "concurrently \"npm run  server\" \"npm run client\"",
     "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build"
   },
-  
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "build": "^0.1.4",
     "concurrently": "^7.0.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
