@@ -15,7 +15,7 @@ fade in doesn't work again
 
 https://www.udemy.com/course/the-ultimate-react-js-responsive-portfolio-website/learn/lecture/28599190#questions
 
-fixed
+FIXED FIXED FIXED
 
 ContactMe
 css
