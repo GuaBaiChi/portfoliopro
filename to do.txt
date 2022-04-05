@@ -1,4 +1,8 @@
 Heroku:
+https://stackoverflow.com/questions/47343658/using-npm-run-build-fails-with-npm-err-missing-script-build
+https://stackoverflow.com/questions/54045419/heroku-no-such-file-or-directory-stat-app-client-build-index-html
+https://superuser.com/questions/1421600/heroku-error-enoent-no-such-file-or-directory-stat-app-client-build-index-h
+https://stackoverflow.com/questions/45782779/heroku-error-enoent-no-such-file-or-directory-open-app-build-index-html
 
 
 
